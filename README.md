@@ -5,7 +5,7 @@ Password Generator
 This application generates a random password based on user-selected criteria.
 
 <div>
-    <img src="./images/03-javascript-homework-demo.png"/> 
+    <img src="./Images/03-javascript-homework-demo.png"/> 
 </div>
 
 ## App functioning
