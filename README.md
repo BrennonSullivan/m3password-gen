@@ -4,7 +4,7 @@ Password Generator
 
 This application generates a random password based on user-selected criteria.
 
-[Website image](https://courses.bootcampspot.com/courses/2773/files/2309797/preview)
+[Website image](https://github.com/BrennonSullivan/m3password-gen/blob/main/Images/03-javascript-homework-demo.png?raw=true)
 
 ## App functioning
 
