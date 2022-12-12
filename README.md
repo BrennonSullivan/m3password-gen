@@ -4,6 +4,8 @@ Password Generator
 
 This application generates a random password based on user-selected criteria.
 
+[Website image](https://courses.bootcampspot.com/courses/2773/files/2309797/preview)
+
 ## App functioning
 
     GIVEN I need a new, secure password
