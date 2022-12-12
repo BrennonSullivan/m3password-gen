@@ -26,9 +26,6 @@ This application generates a random password based on user-selected criteria.
 
 12 December 2022
 
-## Repository link
-
-https://github.com/BrennonSullivan/m3password-gen
-
 ## Web Site Link
 
+https://brennonsullivan.github.io/m3password-gen/
