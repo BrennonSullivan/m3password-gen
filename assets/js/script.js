@@ -1,5 +1,7 @@
 // Assignment Code
 var generateBtn = document.querySelector("#generate");
+var copied = document.querySelector("#copied");
+
 
 var passwordLength;
 var confirmLower;
@@ -60,7 +62,6 @@ function generatePassword() {
   if (!confirmLower && !confirmUpper && !confirmNumber && !confirmSpecial) {
     // No option is selected, alert the user and exit the function
     alert("You must choose a criteria");
-    
   }
   
   // Concatenate the selected options
@@ -80,6 +81,8 @@ function generatePassword() {
   // Join and return the password 
   var password = passwordBlank.join("");
   console.log("Your Pasword is: " + password);
+  copied.innerHTML = 'Copied to clipboard';
+  navigator.clipboard.writeText(password);
   return password;
 }
 
